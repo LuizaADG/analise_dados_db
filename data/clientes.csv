@@ -1,0 +1,101 @@
+id_cliente,nome,email,cidade,data_cadastro,valor_gasto
+1,Leonardo Cavalcante,jribeiro@example.net,Novaes da Mata,2025-09-07,9052.8
+2,Bella Garcia,mcunha@example.net,da Mota das Flores,2024-10-11,38.4
+3,Caroline Machado,raul60@example.com,Martins de Lopes,2025-07-04,5893.2
+4,Vitor Siqueira,ana-lizporto@example.org,Barros,2023-10-16,3248.4
+5,Isadora Teixeira,melissa63@example.com,Siqueira de Vieira,2023-12-11,11529.6
+6,José Pedro da Mota,bazevedo@example.org,Monteiro,2025-08-26,4496.4
+7,Sra. Bella Rezende,henrique70@example.org,Porto das Pedras,2024-03-10,6440.4
+8,Dra. Bella Siqueira,knogueira@example.net,Barros Paulista,2025-09-24,8073.6
+9,Sr. José Miguel Barbosa,da-motaana@example.net,Garcia de Pinto,2023-11-29,9008.4
+10,Luiza Santos,asafe25@example.org,da Mata,2024-04-29,11209.2
+11,Clara Sales,henry-gabriel80@example.net,Sampaio de Machado,2024-09-02,10740.0
+12,Rafael da Luz,lara98@example.com,Pinto do Norte,2025-03-11,8010.0
+13,Alice Pereira,felipe24@example.com,da Cunha das Flores,2024-07-14,7588.8
+14,Yuri Fonseca,valentim55@example.com,Pimenta Verde,2024-06-02,5032.8
+15,Cauã Fonseca,zda-cruz@example.com,Albuquerque da Mata,2024-04-07,8889.6
+16,Sabrina Jesus,gborges@example.org,Fernandes,2024-04-01,5863.2
+17,Emanuelly Vieira,gbarbosa@example.com,Barros,2023-10-15,6019.2
+18,Eloah Silva,alice33@example.com,Sales de da Conceição,2025-10-05,5551.2
+19,Arthur Gabriel Dias,caiosa@example.com,Sampaio da Prata,2025-05-28,938.4
+20,Dante Pastor,joao-gabriel69@example.org,Pereira Verde,2023-12-15,10384.8
+21,Zoe Fogaça,davi-lucas77@example.net,Souza do Oeste,2024-03-08,9054.0
+22,Clara Ferreira,albuquerqueana-julia@example.org,Pacheco,2025-01-15,6571.2
+23,Isaac Farias,enzo27@example.org,Borges do Galho,2024-08-12,5720.4
+24,Stephany Costa,zduarte@example.com,Cunha,2024-08-30,1656.0
+25,Isabella Fernandes,olivia95@example.net,Sousa de Ribeiro,2024-10-10,2314.8
+26,Anthony Gabriel Rocha,leaoeduardo@example.org,da Costa,2024-01-01,7359.6
+27,Sarah Teixeira,augustofogaca@example.com,Barbosa da Serra,2024-02-03,5398.8
+28,Melissa Sá,lunnasilva@example.com,Castro,2024-11-05,9991.2
+29,Marcela Dias,pimentaluan@example.org,Costa de Lopes,2024-10-09,10442.4
+30,Luna Nunes,sophia97@example.net,Lima da Praia,2024-07-21,5932.8
+31,Gustavo Henrique Montenegro,yago10@example.net,da Conceição,2023-12-14,1501.2
+32,Nina Cirino,qviana@example.org,Pastor de Pimenta,2024-02-24,2436.0
+33,Isabella das Neves,ycassiano@example.org,Cunha,2025-02-10,6948.0
+34,Caleb Silveira,ana-carolinasales@example.net,Albuquerque da Praia,2024-07-25,1532.4
+35,Theodoro Aragão,kmachado@example.com,Aparecida,2024-04-15,3694.8
+36,Maria Vitória Alves,qpimenta@example.org,Peixoto,2024-05-03,10442.4
+37,Arthur Miguel Gonçalves,vnascimento@example.com,Brito,2024-07-27,1425.6
+38,Erick Pimenta,tda-mata@example.org,Brito,2024-07-22,9592.8
+39,Lunna Novaes,xlopes@example.net,Santos,2025-09-27,7602.0
+40,Henry Gabriel Vasconcelos,mayaandrade@example.com,Fernandes da Prata,2025-02-04,3661.2
+41,Ana Vieira,marcelasouza@example.com,Câmara de Borges,2025-02-12,164.4
+42,Maria Cecília Lopes,fnunes@example.com,Mendonça Verde,2025-02-24,10270.8
+43,Carolina Abreu,agathaferreira@example.com,Silva,2025-07-14,1725.6
+44,Isaque Caldeira,larissa87@example.com,Ribeiro do Norte,2024-10-23,7795.2
+45,Mathias Sampaio,aylla19@example.com,Camargo do Amparo,2025-04-03,11504.4
+46,Enzo Gabriel Camargo,fariasesther@example.org,Gomes,2023-12-03,7054.8
+47,Carlos Eduardo Freitas,ada-rosa@example.net,Rocha do Campo,2024-02-22,10933.2
+48,José Miguel Fernandes,vianaalana@example.org,Novaes de da Paz,2023-12-24,1364.4
+49,Vitor Gabriel Lopes,ycostela@example.net,Porto de Minas,2025-07-11,5184.0
+50,Sra. Bruna Melo,psales@example.org,Nunes,2024-12-16,6283.2
+51,Maria Fernanda Sales,rochabento@example.com,da Costa do Galho,2024-11-19,9968.4
+52,Dr. Eduardo Rezende,beniciogomes@example.net,Cavalcanti do Oeste,2024-06-29,8460.0
+53,Ravi Sampaio,isabellyrodrigues@example.com,Vasconcelos das Flores,2024-10-26,9379.2
+54,Luiz Fernando Albuquerque,novaesotto@example.net,Borges de Monteiro,2023-10-16,9222.0
+55,Bento Garcia,samuel31@example.org,da Paz Verde,2024-07-04,10593.6
+56,Fernanda Gonçalves,aylacavalcanti@example.org,Leão,2024-03-14,10938.0
+57,Dom da Mata,da-cruzmaite@example.com,Freitas,2025-04-29,7191.6
+58,Dra. Beatriz Dias,nunesmaria-flor@example.org,Aragão,2025-04-30,5865.6
+59,Marcos Vinicius Barbosa,bcunha@example.net,Dias do Galho,2025-05-24,8188.8
+60,Lavínia da Mota,pereiraheloisa@example.com,Carvalho do Campo,2024-06-16,1866.0
+61,Milena Sampaio,felipe76@example.com,Teixeira Alegre,2024-09-27,1950.0
+62,Sr. Henry Cavalcanti,oduarte@example.com,Ribeiro Paulista,2023-11-30,11132.4
+63,Matheus Nunes,sabrina64@example.org,Vargas,2025-08-27,7275.6
+64,Sra. Bárbara Sales,barrosnoah@example.net,Leão das Pedras,2024-07-27,11670.0
+65,Maria Júlia Lopes,da-luzdavi-miguel@example.net,Vargas Grande,2025-04-09,5157.6
+66,Dra. Liz Silva,qda-cunha@example.net,Guerra,2025-06-17,1669.2
+67,Sra. Maria Liz Peixoto,antonioda-cunha@example.com,Rezende,2024-02-27,4248.0
+68,Leonardo da Rosa,zcostela@example.net,Macedo de Pinto,2025-06-27,5558.4
+69,Pedro Lucas Machado,camargopedro-henrique@example.com,Souza do Sul,2025-01-09,8089.2
+70,Maria Flor Cavalcanti,matheuscaldeira@example.org,Sousa da Serra,2025-05-22,2772.0
+71,Kaique da Costa,isabelpinto@example.org,Melo de Rezende,2023-11-08,3588.0
+72,Vitor Gabriel Leão,casa-grandelorenzo@example.com,Rodrigues,2024-09-05,2653.2
+73,Maria Fernanda Santos,tsampaio@example.net,Costa,2025-07-15,7326.0
+74,Alexia Ribeiro,anascimento@example.net,Camargo de Goiás,2024-08-23,1143.6
+75,Maitê Andrade,kda-rocha@example.com,Câmara,2024-06-18,9030.0
+76,Dr. Henry Gabriel Gonçalves,erick62@example.org,Araújo,2024-05-17,7374.0
+77,Clara Cardoso,goncalvesenzo@example.com,Casa Grande de Fonseca,2024-01-22,7059.6
+78,Dr. Felipe da Rosa,gustavo-henrique92@example.net,Pastor,2024-12-02,3962.4
+79,Enzo das Neves,ana-cecilia88@example.org,Cunha das Flores,2024-06-23,1064.4
+80,Marcelo Vieira,antony21@example.net,da Mota do Amparo,2025-06-20,3199.2
+81,Laís Pastor,azevedomaria-sophia@example.org,Silveira das Pedras,2024-02-10,6674.4
+82,Luiz Miguel Sá,pietra87@example.org,Machado,2024-05-27,7268.4
+83,Juan da Costa,andradelaura@example.com,Barros do Oeste,2024-07-16,3591.6
+84,Mariah Sales,yfarias@example.com,Garcia,2024-04-13,3884.4
+85,Cecilia Novais,mariana01@example.com,Sousa,2024-06-03,9315.6
+86,Luan Silveira,josue94@example.net,Aparecida de Macedo,2024-11-26,8521.2
+87,Alice da Cunha,maysamelo@example.com,Mendonça Paulista,2025-06-06,4528.8
+88,Isis Novaes,melissa56@example.net,Silva,2024-01-26,9916.8
+89,Isaque da Paz,da-motaana-clara@example.net,Siqueira dos Dourados,2024-08-26,6463.2
+90,Emanuelly Montenegro,znunes@example.net,Brito Verde,2025-07-02,11440.8
+91,Bianca Farias,lpeixoto@example.org,Montenegro,2025-08-14,5500.8
+92,Pietro Rocha,scosta@example.com,Barbosa,2024-12-06,820.8
+93,Dr. Isaac Siqueira,ravi63@example.net,Rezende das Flores,2025-04-10,6291.6
+94,Gustavo Henrique Barros,rochabernardo@example.net,Novais,2023-12-16,6270.0
+95,Luiz Gustavo Garcia,maria-sophia55@example.org,Vasconcelos,2025-06-02,7096.8
+96,Carlos Eduardo Porto,da-rochapietra@example.com,Souza,2025-09-10,9306.0
+97,Levi Viana,davi-miguelgomes@example.net,Ramos de Ribeiro,2024-04-30,3507.6
+98,Bento Moraes,rodriguesisabela@example.com,Borges de Minas,2023-11-11,11384.4
+99,André Albuquerque,alexandrecardoso@example.com,Araújo de Goiás,2024-03-09,6679.2
+100,Pietro Costa,sabrinaduarte@example.org,Ferreira,2023-10-30,3866.4
